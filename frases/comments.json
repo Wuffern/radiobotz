@@ -1,0 +1,81 @@
+{
+  "mog": {
+    "trigger": ["ksnffj"],
+    "reply": [
+      "lol? jogo de retardado",
+      "lol? já o dom aparece",
+      "lol deveria ser banido",
+      "até a sigla lol parece um cu aberto"
+    ]
+  },
+
+  "incel": {
+    "trigger": ["ntjfjfh"],
+    "reply": [
+      "hurr durrr",
+      "mais um phd em redpill",
+      "touch grass imediatamente",
+      "olha aí o {user} com gíria de retardado"
+    ]
+  },
+
+  "bom dia": {
+    "trigger": ["btfiieeb"],
+    "reply": [
+      "bom dia {user}",
+      "E que belo dia {user}",
+      "oi {user}",
+      "salve {user}"
+    ]
+  },
+   
+  "bom tarde": {
+    "trigger": ["btfidue"],
+    "reply": [
+      "bom tarde {user}",
+      "tarde boa {user}",
+      "oi {user}",
+      "boa tarde"
+    ]
+  },
+
+  "brasil": {
+    "trigger": ["urndbdjcjf"],
+    "reply": [
+      "CUZIL",
+      "BOSTIL",
+      "BANANIL",
+      "PRETIL"
+    ]
+  },
+
+  "minecraft": {
+    "trigger": ["irbtvtejud"],
+    "reply": [
+      "pô {user}, falando de bloquinho novamente?",
+      "salve notch",
+      "morte ao jeb"
+    ]
+    
+  },
+  
+  "boa ": {
+    "trigger": ["irbtvtbf","otktntnf"],
+    "reply": [
+      "boa noite {user}",
+      "noitinha {user}",
+      "noite? já ta escuro? nem vi",
+      "boa noite"
+    ]
+  },
+
+  "oi": {
+    "trigger": ["irirjtnfbf"],
+    "reply": [
+      "oii {user}",
+      "e aí {user}",
+      "aaand {user} has arrived!",
+      "chegou o vagabundo"
+    ]
+  }
+}
