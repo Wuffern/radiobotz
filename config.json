@@ -1,0 +1,7 @@
+{
+  "server": "https://cytu.be",
+  "channel": "NOMECANAL",
+  "username": "USUARIODOBOT",
+  "password": "SENHADOUSUARIODOBOT",
+  "discordWebhook": "DISCHORDWEBHOOK"
+}
