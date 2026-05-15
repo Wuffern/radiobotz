@@ -93,7 +93,7 @@ if (msg.username === "[server]") return
     sendDiscordLog(`💬 **${msg.username}:** ${msg.msg}`)
 
         // MORRER HOJE
-if (text === "qual a chance de morrer hoje?") {
+if (text === "!morte") {
 
     const key = msg.username + "_morte"
     const now = Date.now()
@@ -116,7 +116,7 @@ if (text === "qual a chance de morrer hoje?") {
 }
 
         // ATRAENTE HOJE
-if (text === "Qual a minha gostosura hoje?") {
+if (text === "!gostosura") {
 
     const key = msg.username + "_goatosura"
     const now = Date.now()
@@ -181,7 +181,7 @@ if (regex.test(text)) {
 
 }
     // tarot
-    if (text.toLowerCase() === "eskizitinha, tarot!") {
+    if (text.toLowerCase() === "!futuro") {
 
     const resposta = tarot[Math.floor(Math.random() * tarot.length)]
 
@@ -191,7 +191,7 @@ if (regex.test(text)) {
 
 }
     // fofoca
-    if (text === "fale uma fofoca eskizitinha") {
+    if (text === "!fofoca") {
 
     const fofoca = fofocas[Math.floor(Math.random() * fofocas.length)]
 
